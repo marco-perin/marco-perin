@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 🔭
+
+I'm Marco, an Italian Ph.D. student, passionate about robotics, drones, multiagent systems, embedded systems and so much more!
 
 <!--
 **marco-perin/marco-perin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contacts 📫
+
+You can contact me by email at [marco.perin.mr@gmail.com](mailto:marco.perin.mr@gmail.com), and I also recently developed a small [website](https://tinyurl.com/marco-perin-github).
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marco-perin&show_icons=true&rank_icon=github&theme=city_lights&show=prs_merged#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-perin&theme=city_lights&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marco-perin&show_icons=true&rank_icon=github&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-perin&theme=vue&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
