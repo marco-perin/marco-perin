@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Contacts 📫
 
-You can contact me by email at [marco.perin.mr@gmail.com](mailto:marco.perin.mr@gmail.com), and I also recently developed a small [website](https://tinyurl.com/marco-perin-github).
+You can contact me by email at [info@marco-perin.com](mailto:info@marco-perin.com), and I also recently developed a small [website](https://tinyurl.com/marco-perin-github).
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marco-perin&show_icons=true&rank_icon=github&theme=city_lights&show=prs_merged#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
